@@ -1,9 +1,6 @@
-Hi, I'm Gordon Freeman. 
-I'm Gordon Freeman y.o
-I'm interested in Cascade resonance
-Hate HeadCrabs
+- Hi, I'm Gordon Freeman. 
+- I'm Gordon Freeman y.o
+- I'm interested in Cascade resonance
 
-
-
-
-and hate Python. 
+- Hate Python, Go, and HTML
+🤑🤑🤑
