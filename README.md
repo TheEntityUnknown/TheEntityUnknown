@@ -4,3 +4,5 @@
 
 - Hate Python, Go, and HTML
 🤑🤑🤑
+
+- Gulang my beloved 🤑❤
